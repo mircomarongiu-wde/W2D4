@@ -269,6 +269,7 @@ h6 {
     justify-content: flex-start;
     align-items: center;
     flex-direction: row;
+    margin-bottom: 60px;
 }
 
 #rec-topic div {
@@ -331,7 +332,8 @@ h6 {
 }
 
 #who-to-follow {
-    margin-top: 40px;
+    margin-top: 0px;
+    margin-bottom: 60px;
 }
 
 .photo img {
@@ -363,16 +365,11 @@ h6 {
     width: 70px;
 }
 
-#rec.saved h4 {
-    margin-bottom: 10px;
-    margin-top: 50px;
+#rec-saved {
+    margin-bottom: 40px;
 }
 
-#rec-saved .d1 {
-    padding-top: 40px;
-}
-
-#title-rec-saved {
+#title #rec-saved {
     margin-bottom: 10px;
     margin-top: 50px;
 }
@@ -418,9 +415,6 @@ h6 {
     align-content: center;
     justify-content: flex-start;
     align-items: center;
-
-    margin-bottom: 20px;
-
 }
 
 .d3 img {
